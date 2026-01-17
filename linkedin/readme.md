@@ -9,3 +9,7 @@ These names and profiles are extracted.
 
 https://github.com/irhelp/online-profiles-iran/blob/main/linkedin/arvancloud_linkedin_employees.csv
 
+
+# Method
+
+See this: https://gist.github.com/irhelp/0459374ddc5c5ca8becf2f5e4ed52f97
