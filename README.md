@@ -1,5 +1,4 @@
-# online-profiles-iran
-People who assisted in the suppression of Iranian people
+# People who assisted the suppression of Iranian people
 
 
 # Linkedin
